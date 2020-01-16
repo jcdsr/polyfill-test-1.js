@@ -1,3 +1,8 @@
+
+Angular 8.2.14
+
+Build as ssr universal
+
 pacckage.json version
 
 "classlist.js": "1.1.20150312",
