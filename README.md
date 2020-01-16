@@ -3,14 +3,14 @@ Angular 8.2.14
 
 Build as ssr universal
 
-pacckage.json version
+package.json version
 
-"classlist.js": "1.1.20150312",
+ "classlist.js": "1.1.20150312",
  "core-js": "~3.6.3",
  "event-source-polyfill": "^1.0.12",
  "js-polyfills": "^0.1.42",
  "web-animations-js": "2.3.2",
-     "zone.js": "~0.10.2"
+ "zone.js": "~0.10.2"
  
  
 content of polyfill.ts
